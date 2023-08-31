@@ -1,5 +1,5 @@
 ---
-title: "HW0"
+title: "hw0"
 author: "Rachel Sussman"
 format: html
 execute:
